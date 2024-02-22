@@ -49,8 +49,7 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 If you have any questions or suggestions regarding the project, feel free to reach out:
 
-- Email: your-email@example.com
-- Twitter: [@your-twitter-handle](https://twitter.com/your-twitter-handle)
-- LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/your-linkedin-profile)
+- Email: pintukarjee2@gmail.com
+- LinkedIn: https://www.linkedin.com/in/pintukarjee)
 
 Happy blogging! 📝
